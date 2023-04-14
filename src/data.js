@@ -75,6 +75,7 @@ function chillHop() {
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://storiestogrowby.org/wp-content/uploads/2019/06/Snow-White-and-the-Seven-Dwarfs.mp3?_=1",
             active: false,
+        },   
         {
             name:"Rumpelstiltskin Story",
             artist: "Bedtime Story",
